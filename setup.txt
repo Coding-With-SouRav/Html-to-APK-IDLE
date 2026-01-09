@@ -1,0 +1,30 @@
+install package
+extract package
+
+
+## User Variable
+
+PATH > path\to\"npm"
+
+
+## add System Veriables >>
+
+under System veriables >
+
+ANDROID_HOME > path\to\"Sdk"
+ANDROID_SDK_ROOT > path\to\"Sdk"
+
+GRADLE_HOME > path\to\"gradle-8.5"
+
+JAVA_HOME > path\to\"jdk-17.0.17.10-hotspot"
+
+
+
+## Edit path 
+
+new > path\to\"jdk-17.0.17.10-hotspot\bin"
+new > "%GRADLE_HOME%\bin"
+new > path\to\"Sdk\platform-tools"
+new > path\to\"Sdk\cmdline-tools\latest\bin"
+
+restart computer

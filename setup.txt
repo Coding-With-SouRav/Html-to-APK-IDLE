@@ -7,7 +7,7 @@ extract package
 PATH > path\to\"npm"
 
 
-## add System Veriables >>
+## add System Veriables >> 
 
 under System veriables >
 

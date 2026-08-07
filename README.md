@@ -41,6 +41,3 @@
 
 This is an **all-in-one APK packaging tool** ideal for frontend developers or anyone needing to quickly generate Android install packages from web content without complex Android development setup.
 
-
-<!-- AUTO UPDATE -->
-Last maintenance: 2026-08-06 07:15 UTC
